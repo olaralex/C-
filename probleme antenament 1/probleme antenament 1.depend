@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662390012 source:d:\pclp 2 c c++\probleme antenament 1\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<conio.h>
+
